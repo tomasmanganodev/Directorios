@@ -37,8 +37,3 @@ exports.getDirectories = async (req, res, next) =>{
 }
 
 
-
-exports.getDir = async (req, res, next) =>{
-    res.send('s');
-}
-
